@@ -1,5 +1,18 @@
 # Create-React-App
+## Step by Step to create React App from VS Code
 
+### STEP 1 after you open up your terminal on VS Code
+#### cd . to the desired folder where you want to install/create react app package.
+![setup1 1](https://user-images.githubusercontent.com/99146295/166836429-a8693188-1914-4418-9404-807ad2ea136a.jpg)
+
+### STEP 2 
+#### type npx create-react-app 02-firstjsx to your terminal (NOTE: 02-firstjsx will be your project folder/package name and it cannot be capitalized.)
+#### Succesful installation will look like this below with a "Happy hacking!"
+
+![setup2](https://user-images.githubusercontent.com/99146295/166837380-4bdebd87-50a9-43ba-8fb8-7a3a673782cf.JPG)
+
+
+#======================================================================================================================================================================
 ### Modern JavaScript projects typically use bundlers to "build" source code into production-ready files. One of the most popular bundlers is called Webpack. Webpack is an amazing tool that allows us to break our apps down into smaller modules and transform them based on tools called loaders. It's definitely a technology worth looking into, and you should spend some time working through the Getting Started tutorial. https://webpack.js.org/guides/getting-started/
 
 ### However, Webpack is not the focus of this React workshop. We'll instead lean on the opinionated starter kit create-react-app, which uses Webpack under the hood.
