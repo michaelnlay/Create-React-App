@@ -3,15 +3,18 @@
 
 ### STEP 1 after you open up your terminal on VS Code
 #### cd . to the desired folder where you want to install/create react app package.
-![setup1 1](https://user-images.githubusercontent.com/99146295/166836429-a8693188-1914-4418-9404-807ad2ea136a.jpg)
+
+![alt text](https://github.com/michaelnlay/Create-React-App/blob/main/setup1.1.jpg?raw=true)
 
 ### STEP 2 
 #### type npx create-react-app 02-firstjsx to your terminal (NOTE: 02-firstjsx will be your project folder/package name and it cannot be capitalized.)
 #### Succesful installation will look like this below with a "Happy hacking!"
 
-![setup2](https://user-images.githubusercontent.com/99146295/166837380-4bdebd87-50a9-43ba-8fb8-7a3a673782cf.JPG)
-https://github.com/michaelnlay/Create-React-App/blob/main/setup1.1.jpg
-https://github.com/michaelnlay/Create-React-App/blob/main/setup2.JPG
+![alt text](https://github.com/michaelnlay/Create-React-App/blob/main/setup2.JPG
+?raw=true)
+
+
+
 
 
 #======================================================================================================================================================================
