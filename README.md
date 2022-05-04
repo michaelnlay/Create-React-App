@@ -10,8 +10,7 @@
 #### type npx create-react-app 02-firstjsx to your terminal (NOTE: 02-firstjsx will be your project folder/package name and it cannot be capitalized.)
 #### Succesful installation will look like this below with a "Happy hacking!"
 
-![alt text](https://github.com/michaelnlay/Create-React-App/blob/main/setup2.JPG
-?raw=true)
+![alt text](https://github.com/michaelnlay/Create-React-App/blob/main/setup2.JPG?raw=true)
 
 
 
