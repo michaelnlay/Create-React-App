@@ -10,6 +10,7 @@
 #### Succesful installation will look like this below with a "Happy hacking!"
 
 ![setup2](https://user-images.githubusercontent.com/99146295/166837380-4bdebd87-50a9-43ba-8fb8-7a3a673782cf.JPG)
+https://github.com/michaelnlay/Create-React-App/blob/main/setup1.1.jpg
 
 
 #======================================================================================================================================================================
