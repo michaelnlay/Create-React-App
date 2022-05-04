@@ -12,7 +12,8 @@
 
 ![alt text](https://github.com/michaelnlay/Create-React-App/blob/main/setup2.JPG?raw=true)
 
-
+### STEP 3
+#### type npm start to load the project
 
 
 
