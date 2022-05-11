@@ -18,6 +18,8 @@
 ### STEP 4
 #### type npm install axios to use axios for API
 
+![axios](./axios.JPG)
+
 
 
 
