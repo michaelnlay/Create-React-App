@@ -16,7 +16,7 @@
 #### type npm start to load the project
 
 ### STEP 4
-#### type npm install axios to use axios for API
+#### type npm install axios to use axios for API (install one for each project)
 
 ![axios](./axios.JPG)
 
