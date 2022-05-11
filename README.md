@@ -17,6 +17,7 @@
 
 ### STEP 4
 #### type npm install axios to use axios for API (install one for each project)
+#### Don't forget to import Axios...
 
 ![axios](./axios.JPG)
 
